@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorScheme
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<FormMainColor>60, 63, 65</FormMainColor>
+	<LabelBackColor>60, 63, 65</LabelBackColor>
+	<LabelTextColor>173, 173, 173</LabelTextColor>
+	<FormMenuBackColor>60, 63, 70</FormMenuBackColor>
+	<FormMenuTextColor>173, 173, 173</FormMenuTextColor>
+	<ButtonsBackColor>57, 60, 62</ButtonsBackColor>
+	<ButtonsTextColor>173, 173, 173</ButtonsTextColor>
+	<TextboxBackColor>60, 63, 65</TextboxBackColor>
+	<TextboxTextColor>173, 173, 173</TextboxTextColor>
+	<ButtonSaveBackColor>66, 77, 95</ButtonSaveBackColor>
+	<ButtonSaveTextColor>58, 179, 91</ButtonSaveTextColor>
+	<DataGridBackColor>43, 43, 43</DataGridBackColor>
+	<DataGridColumnHeaderBackColor>59, 59, 59</DataGridColumnHeaderBackColor>
+	<DataGridColumnHeaderTextColor>173, 173, 173</DataGridColumnHeaderTextColor>
+	<DataGridRowDefaultColor>43, 43, 43</DataGridRowDefaultColor>
+	<DataGridRowTextDefaultColor>173, 173, 173</DataGridRowTextDefaultColor>
+	<DataGridCellUntransaltedColor>245, 163, 144</DataGridCellUntransaltedColor>
+	<DataGridCellUntransaltedTextColor>20, 3, 3</DataGridCellUntransaltedTextColor>
+	<DataGridCellTransaltedColor>138, 237, 177</DataGridCellTransaltedColor>
+	<DataGridCellTransaltedTextColor>20, 3, 3</DataGridCellTransaltedTextColor>
+	<DataGridCellSelectionColor>50, 50, 50</DataGridCellSelectionColor>
+	<DataGridCellSelectionTextColor>173, 173, 173</DataGridCellSelectionTextColor>
+</ColorScheme>
